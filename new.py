@@ -10,3 +10,10 @@ print(func(3))
 
 for i in range(5):
     print(i)
+    
+n = 0
+while(n<8):
+  print(n)
+  n = n +1
+  
+  
